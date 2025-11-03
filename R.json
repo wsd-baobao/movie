@@ -1,0 +1,15 @@
+[
+  {
+    "id": "$UUID",
+    "name": "百度资源",
+    "type": 0,
+    "logo": "",
+    "nsfw": false,
+    "api": "https://cj.apibdzy.com/inc/api.php",
+    "extra": {
+      "category": "[]",  // 使用静态分类
+      "gfw": false,  // 是否需要代理访问
+      "sniffer": {} // 视频嗅探配置
+    }
+  }
+]
