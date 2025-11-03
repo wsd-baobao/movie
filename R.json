@@ -7,9 +7,7 @@
         "nsfw": "true",
         "api": "https://155api.com/api.php/provide/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -20,9 +18,7 @@
         "nsfw": "true",
         "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -33,9 +29,7 @@
         "nsfw": "true",
         "api": "https://jkunzyapi.com/api.php/provide/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -46,9 +40,7 @@
         "nsfw": "true",
         "api": "https://caiji.gqjiexi.com/api.php/provide/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -59,9 +51,7 @@
         "nsfw": "true",
         "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -72,9 +62,7 @@
         "nsfw": "true",
         "api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -85,9 +73,7 @@
         "nsfw": "true",
         "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -98,9 +84,7 @@
         "nsfw": "true",
         "api": "https://tianmiapi.com/api.php/provide/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -111,9 +95,7 @@
         "nsfw": "true",
         "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -124,9 +106,7 @@
         "nsfw": "true",
         "api": "https://haosezyw.com/api.php/provide/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -137,9 +117,7 @@
         "nsfw": "true",
         "api": "https://vnzyz.com/api.php/provide/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -150,9 +128,7 @@
         "nsfw": "true",
         "api": "https://api.lyhapi.com/api.php/provide/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -163,9 +139,7 @@
         "nsfw": "true",
         "api": "https://www.jingpinx.com//api.php/provide/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -176,9 +150,7 @@
         "nsfw": "true",
         "api": "https://www.avre06.com/api.php/provide/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -189,9 +161,7 @@
         "nsfw": "true",
         "api": "https://apisesehuzy.com/api.php/provide/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -202,9 +172,7 @@
         "nsfw": "true",
         "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -215,9 +183,7 @@
         "nsfw": "true",
         "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -228,9 +194,7 @@
         "nsfw": "true",
         "api": "https://www.caoliuzyw.com/api.php/provide/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -241,9 +205,7 @@
         "nsfw": "true",
         "api": "https://xjjzyapi.com/cjapi/sda/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -254,9 +216,7 @@
         "nsfw": "true",
         "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -267,9 +227,7 @@
         "nsfw": "true",
         "api": "https://apilj.com/api.php/provide/vod/at/json/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -280,9 +238,7 @@
         "nsfw": "true",
         "api": "https://kuaiavzy.com/api.php/provide/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -293,9 +249,7 @@
         "nsfw": "true",
         "api": "https://cj.lziapi.com/api.php/provide/vod",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -306,9 +260,7 @@
         "nsfw": "true",
         "api": "http://cj.ffzyapi.com/api.php/provide/vod",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -319,9 +271,7 @@
         "nsfw": "true",
         "api": "https://apiyutu.com/api.php/provide/vod/at/xml/",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -332,9 +282,7 @@
         "nsfw": "true",
         "api": "https://aosikazy.com/api.php/provide/vod/",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -345,9 +293,7 @@
         "nsfw": "true",
         "api": "https://cmzy.top/api.php/provide/vod/?ac=list",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -358,9 +304,7 @@
         "nsfw": "true",
         "api": "http://wmcj8.com/inc/sapi.php",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -371,9 +315,7 @@
         "nsfw": "true",
         "api": "http://apilj.com/api.php/provide/vod/at/json/",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -384,9 +326,7 @@
         "nsfw": "true",
         "api": "http://91md.me/api.php/provide/vod/",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -397,9 +337,7 @@
         "nsfw": "true",
         "api": "http://dadiapi.com/api.php",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -410,9 +348,7 @@
         "nsfw": "true",
         "api": "http://llzxcj.com/inc/sck.php?ac=videolist",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -423,9 +359,7 @@
         "nsfw": "true",
         "api": "http://bttcj.com/inc/sapi.php",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -436,9 +370,7 @@
         "nsfw": "true",
         "api": "http://f2dcj6.com/sapi?ac=videolist",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -449,9 +381,7 @@
         "nsfw": "true",
         "api": "http://api.11bat.com/api.php/provide/vod/at/xml",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -462,9 +392,7 @@
         "nsfw": "true",
         "api": "https://api.maozyapi.com/inc/apijson_vod.php",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -475,9 +403,7 @@
         "nsfw": "true",
         "api": "https://apittzy.com/api.php/provide/vod/",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -488,9 +414,7 @@
         "nsfw": "true",
         "api": "https://www.gdlsp.com/api/xml.php",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -501,9 +425,7 @@
         "nsfw": "true",
         "api": "https://www.msnii.com/api/xml.php",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -514,9 +436,7 @@
         "nsfw": "true",
         "api": "https://www.xrbsp.com/api/xml.php",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -527,9 +447,7 @@
         "nsfw": "true",
         "api": "https://www.kxgav.com/api/xml.php",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -540,9 +458,7 @@
         "nsfw": "true",
         "api": "https://kkzy.me/api.php/provide/vod/",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -553,9 +469,7 @@
         "nsfw": "true",
         "api": "https://shayuapi.com/api.php/provide/vod/",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -566,9 +480,7 @@
         "nsfw": "true",
         "api": "https://www.afasu.com/api/xml.php",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -579,9 +491,7 @@
         "nsfw": "true",
         "api": "https://lbapi9.com/api.php/provide/vod/",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     },
     {
@@ -592,10 +502,7 @@
         "nsfw": "true",
         "api": "https://api.apilyzy.com/api.php/provide/vod/",
         "extra": {
-            "category": "[]",
-            "gfw": false,
-            "sniffer": {}
+            "gfw": false
         }
     }
 ]
-
