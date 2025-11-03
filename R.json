@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
   {
     "id": "$UUID",
     "name": "百度资源",
@@ -13,3 +14,604 @@
     }
   }
 ]
+=======
+    {
+        "id": "155zy.com",
+        "name": "♥155(直连)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://155api.com/api.php/provide/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "tantanzy.com",
+        "name": "💕探探(直连)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "jkunzy.com",
+        "name": "💕jkun(直连)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://jkunzyapi.com/api.php/provide/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "gqzy.me",
+        "name": "♥搞起(直连)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://caiji.gqjiexi.com/api.php/provide/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "lebozy.com",
+        "name": "💕乐播(直连)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "laoyazy.com",
+        "name": "💕老鸭(直连)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "senlinzy.com",
+        "name": "♥森林(直连)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "timizy.cc",
+        "name": "💕甜蜜(直连)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://tianmiapi.com/api.php/provide/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "didizy.com",
+        "name": "♥滴滴(直连)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "haosezyw.com",
+        "name": "💕好色(直连)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://haosezyw.com/api.php/provide/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "vnzyz.com",
+        "name": "💕越南(直连)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://vnzyz.com/api.php/provide/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "lyhzyw.com",
+        "name": "💕狼友会(直连)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://api.lyhapi.com/api.php/provide/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "jingpinx.com",
+        "name": "★精品下(直连)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://www.jingpinx.com//api.php/provide/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "avre.club",
+        "name": "★黄瓜(直连)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://www.avre06.com/api.php/provide/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "sesehuzy.com",
+        "name": "💕色虎(直连)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://apisesehuzy.com/api.php/provide/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "naixxzy.com",
+        "name": "★奶香香(直连)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "laosebizy.com",
+        "name": "💕老色逼(直连)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "www.caoliuzyw.com",
+        "name": "★草榴(直连)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://www.caoliuzyw.com/api.php/provide/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "xjjzyapi.com",
+        "name": "美少女",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://xjjzyapi.com/cjapi/sda/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "semaozy.com",
+        "name": "色猫(FQ)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "lajiaozy.com",
+        "name": "辣椒(FQ)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://apilj.com/api.php/provide/vod/at/json/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "kuaiavzy.com",
+        "name": "快av(FQ)",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://kuaiavzy.com/api.php/provide/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "量子",
+        "name": "量子",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://cj.lziapi.com/api.php/provide/vod",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "非凡",
+        "name": "非凡",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "玉兔资源",
+        "name": "玉兔资源",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://apiyutu.com/api.php/provide/vod/at/xml/",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "奥斯卡资源网",
+        "name": "奥斯卡",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://aosikazy.com/api.php/provide/vod/",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "草帽资源",
+        "name": "草帽",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://cmzy.top/api.php/provide/vod/?ac=list",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "wmcj8.com",
+        "name": "成人05",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "http://wmcj8.com/inc/sapi.php",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "apilj.com",
+        "name": "成人06",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "http://apilj.com/api.php/provide/vod/at/json/",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "91md.me",
+        "name": "成人07",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "http://91md.me/api.php/provide/vod/",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "dadiapi.com",
+        "name": "成人09",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "http://dadiapi.com/api.php",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "llzxcj.com",
+        "name": "成人11",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "http://llzxcj.com/inc/sck.php?ac=videolist",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "bttcj.com",
+        "name": "成人12",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "http://bttcj.com/inc/sapi.php",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "f2dcj6.com",
+        "name": "成人14",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "http://f2dcj6.com/sapi?ac=videolist",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "api.11bat.com",
+        "name": "成人15",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "http://api.11bat.com/api.php/provide/vod/at/xml",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "api.maozyapi.com",
+        "name": "成人16",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "apittzy.com",
+        "name": "成人18",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://apittzy.com/api.php/provide/vod/",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "gdlsp.com",
+        "name": "成人19",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://www.gdlsp.com/api/xml.php",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "msnii.com",
+        "name": "成人20",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://www.msnii.com/api/xml.php",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "xrbsp.com",
+        "name": "成人21",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://www.xrbsp.com/api/xml.php",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "kxgav.com",
+        "name": "成人22",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://www.kxgav.com/api/xml.php",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "kkzy.me",
+        "name": "成人23",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://kkzy.me/api.php/provide/vod/",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "shayuapi.com",
+        "name": "成人24",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://shayuapi.com/api.php/provide/vod/",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "afasu.com",
+        "name": "成人25",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://www.afasu.com/api/xml.php",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "lbapi9.com",
+        "name": "成人26",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://lbapi9.com/api.php/provide/vod/",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    },
+    {
+        "id": "api.apilyzy.com",
+        "name": "成人27",
+        "type": 0,
+        "logo": "",
+        "nsfw": "TRUE",
+        "api": "https://api.apilyzy.com/api.php/provide/vod/",
+        "extra": {
+            "category": "[]",
+            "gfw": false,
+            "sniffer": {}
+        }
+    }
+]
+>>>>>>> b6df87b (11)
