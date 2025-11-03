@@ -10,7 +10,17 @@
             "gfw": false
         }
     },
-    
+    {
+        "id": "suoniapi.com",
+        "name": "索尼资源(直连)",
+        "type": 0,
+        "status": true,
+        "nsfw": false,
+        "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+        "extra": {
+            "gfw": false
+        }
+    },
     {
         "id": "guangsuapi.com",
         "name": "光速资源(直连)",
