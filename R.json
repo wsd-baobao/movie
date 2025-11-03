@@ -1,5 +1,64 @@
 [
     {
+        "id": "caiji.maotaizy.cc",
+        "name": "茅台资源(直连)",
+        "type": 0,
+        "status": true,
+        "nsfw": false,
+        "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+        "extra": {
+            "gfw": false
+        }
+    },
+    
+    {
+        "id": "guangsuapi.com",
+        "name": "光速资源(直连)",
+        "type": 0,
+        "status": true,
+        "nsfw": false,
+        "api": "https://api.guangsuapi.com/api.php/provide/vod/josn",
+        "extra": {
+            "gfw": false
+        }
+    },
+   
+    
+    {
+        "id": "thzy1.me",
+        "name": "桃花资源(直连)",
+        "type": 0,
+        "status": true,
+        "nsfw": true,
+        "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
+        "extra": {
+            "gfw": false
+        }
+    },
+     
+   {
+        "id": "xzybb1.com",
+        "name": "幸资源(直连)",
+        "type": 0,
+        "status": true,
+        "nsfw": true,
+        "api": "https://xzybb1.com/api.php/provide/vod/?ac=list",
+        "extra": {
+            "gfw": false
+        }
+    },
+    {
+        "id": "xingba222.com",
+        "name": "杏吧(直连)",
+        "type": 0,
+        "status": true,
+        "nsfw": true,
+        "api": "https://xingba222.com/api.php/provide/vod/?ac=list",
+        "extra": {
+            "gfw": false
+        }
+    },
+    {
         "id": "155zy.com",
         "name": "♥155(直连)",
         "type": 0,
