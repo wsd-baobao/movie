@@ -32,7 +32,7 @@
             "gfw": false
         }
     },
-   {
+    {
         "id": "api.xiaojizy.live",
         "name": "小鸡资源(直连)",
         "type": 0,
@@ -43,7 +43,6 @@
             "gfw": false
         }
     },
-    
     {
         "id": "thzy1.me",
         "name": "桃花资源(直连)",
@@ -55,8 +54,7 @@
             "gfw": false
         }
     },
-     
-   {
+    {
         "id": "xzybb1.com",
         "name": "幸资源(直连)",
         "type": 0,
